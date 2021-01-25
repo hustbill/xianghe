@@ -1,5 +1,5 @@
-# frozen_string_literal: true
-
 source 'https://rubygems.org'
+gem 'jekyll-paginate'
 
-gemspec
+gem "jekyll", "~> 4.0"
+gem "rake"
