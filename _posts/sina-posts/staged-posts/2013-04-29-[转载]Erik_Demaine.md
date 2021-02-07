@@ -1,5 +1,5 @@
 ---
-title: [转载]Erik_Demaine
+title: 转载Erik_Demaine
 date:  2013-04-29
 draft: false
 keywords: []
@@ -8,8 +8,8 @@ tags: ["新浪博客"]
 categories: 
     - "日记本"
 ---
-[转载]Erik Demaine
-## [转载]Erik Demaine
+转载Erik Demaine
+## 转载Erik Demaine
 
  原文发布于：*2013-04-29 23:45:45*
 
