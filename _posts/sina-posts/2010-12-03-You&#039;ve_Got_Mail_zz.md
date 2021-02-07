@@ -1,3 +1,13 @@
+---
+title: 2010-12-03-You&#039;ve_Got_Mail_zz
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 You&#039;ve Got Mail zz
 ## You&#039;ve Got Mail zz
 
@@ -119,4 +129,4 @@ and yearning. Mr. Nilsson's beautiful music hasn't figured this
 prominently in a film since it turned up in ''Midnight Cowboy,''
 used to quite different effect.
 
-[返回目录](index.html)
+

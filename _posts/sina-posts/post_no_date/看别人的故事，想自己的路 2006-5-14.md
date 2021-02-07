@@ -220,4 +220,4 @@ __load_js();__render_page();
         var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
         SinaBlog680.staticBox(slotArr, sourceArr);
 
-[返回目录](index.html)
+

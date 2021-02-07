@@ -1,3 +1,13 @@
+---
+title: 读书笔记-IBM_Rational_Clearcase_7.0:_Master_the_Tools_That&nb
+date:  2012-02-01
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 读书笔记-IBM Rational Clearcase 7.0: Master the Tools That&nb
 ## 读书笔记-IBM Rational Clearcase 7.0: Master the Tools That&nb
 
@@ -14,4 +24,4 @@ main instrument for SCM professionals, and I just cannot resist
 quoting them: "GUIs hide more than they
 show".
 
-[返回目录](index.html)
+

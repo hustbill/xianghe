@@ -1,3 +1,13 @@
+---
+title: 2009-06-07-June_6th_Travel_to_Ohio
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 June 6th Travel to Ohio
 ## June 6th Travel to Ohio
 
@@ -23,4 +33,4 @@ fruitful.
 [
 View Full Album](http&#58;//cid-21498be546db23d6.skydrive.live.com/redir.aspx?page=browse&amp;resid=21498BE546DB23D6!1441&amp;ct=photos)
 
-[返回目录](index.html)
+

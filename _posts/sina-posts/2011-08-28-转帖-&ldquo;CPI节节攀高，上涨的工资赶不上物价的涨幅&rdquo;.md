@@ -1,3 +1,13 @@
+---
+title: 2011-08-28-转帖-&ldquo;CPI节节攀高，上涨的工资赶不上物价的涨幅&rdquo;
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 转帖-&ldquo;CPI节节攀高，上涨的工资赶不上物价的涨幅&rdquo;
 ## 转帖-&ldquo;CPI节节攀高，上涨的工资赶不上物价的涨幅&rdquo;
 
@@ -17,4 +27,4 @@
 
 这些年，也有一些价格往下走的商品，比如彩电、电脑、手机，它们中，身价掉得最凶的，超过50%。如果上面提到的那些行业有家电业的生产经营水平，估计《今儿个真高兴》要被咱的百姓唱破天了。
 
-[返回目录](index.html)
+

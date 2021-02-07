@@ -1,3 +1,13 @@
+---
+title: 2010-03-26-How_to_Convert_Outlook_Emails_to_Word_Documents
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 How to Convert Outlook Emails to Word Documents
 ## How to Convert Outlook Emails to Word Documents
 
@@ -43,4 +53,4 @@ Step 6
 Left click the "Tools" then "Send Text to Word" menu option and
 the email will be saved to Word format.
 
-[返回目录](index.html)
+

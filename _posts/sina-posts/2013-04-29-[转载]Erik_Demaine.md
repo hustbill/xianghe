@@ -1,3 +1,13 @@
+---
+title: [转载]Erik_Demaine
+date:  2013-04-29
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 [转载]Erik Demaine
 ## [转载]Erik Demaine
 
@@ -21,4 +31,4 @@ and Harold E. Edgerton Professor（不是正教授title）。
 graphic
 theory，比较有趣，论著无数，足有好几百篇，合作者的list也有几百个了。注意人家的论文可不是随便发的水文，都是些好会议。
 
-[返回目录](index.html)
+

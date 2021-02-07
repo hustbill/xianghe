@@ -1,3 +1,13 @@
+---
+title: 2009-07-15-dancing_in_the_moonlight_ZZ
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 dancing in the moonlight ZZ
 ## dancing in the moonlight ZZ
 
@@ -86,4 +96,4 @@ its such a fine and natural sight
 
 everybody's dancing' in the moonlight
 
-[返回目录](index.html)
+

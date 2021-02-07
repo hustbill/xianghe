@@ -1,3 +1,13 @@
+---
+title: 摘录-电影Love_Actually-《真爱至上》_纸板告白
+date:  2011-09-24
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 摘录-电影Love Actually-《真爱至上》 纸板告白
 ## 摘录-电影Love Actually-《真爱至上》 纸板告白
 
@@ -31,4 +41,4 @@ UNTIL YOU LOOK LIKE THIS 直到你变成这样为止
 
 MERRY CHRISTMAS!!!! 圣诞快乐
 
-[返回目录](index.html)
+

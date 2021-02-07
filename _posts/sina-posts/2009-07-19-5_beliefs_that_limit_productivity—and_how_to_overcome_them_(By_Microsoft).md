@@ -1,3 +1,13 @@
+---
+title: 2009-07-19-5_beliefs_that_limit_productivity—and_how_to_overcome_them_(By_Microsoft)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 5 beliefs that limit productivity—and how to overcome them (By Microsoft)
 ## 5 beliefs that limit productivity—and how to overcome them (By Microsoft)
 
@@ -220,4 +230,4 @@ Take Back Your Life!&#58; Using Microsoft Office
 Outlook 2007 to Get Organized and Stay Organized](http&#58;//www.microsoft.com/MSPress/books/authors/auth10141.aspx) is available
 online.
 
-[返回目录](index.html)
+

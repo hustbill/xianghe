@@ -1,3 +1,13 @@
+---
+title: 2009-07-15-A_whole_New_World_-_Aladdin:_Brad_Kane_&_Lea_Salonga
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 A whole New World - Aladdin: Brad Kane & Lea Salonga
 ## A whole New World - Aladdin: Brad Kane & Lea Salonga
 
@@ -113,4 +123,4 @@ a wondrous place
 
 for you and me
 
-[返回目录](index.html)
+

@@ -1,3 +1,13 @@
+---
+title: 2011-02-16-DataPad_is_a_good_tool
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 DataPad is a good tool
 ## DataPad is a good tool
 
@@ -11,4 +21,4 @@ way to keep track of whatever you are interested in of your own
 history. Use DatePad to keep a diary, use it to manage a project,
 write down your thoughts, keep a record of your dreams..
 
-[返回目录](index.html)
+

@@ -1,3 +1,13 @@
+---
+title: 2009-07-19-5_ways_to_speed_up_your_PC(by_Microsoft)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 5 ways to speed up your PC(by Microsoft)
 ## 5 ways to speed up your PC(by Microsoft)
 
@@ -20,4 +30,4 @@ d) Protect your computer against spyware
 
 e) Learn all about ReadyBoost
 
-[返回目录](index.html)
+

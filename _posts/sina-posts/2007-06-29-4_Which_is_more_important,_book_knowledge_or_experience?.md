@@ -1,3 +1,13 @@
+---
+title: 2007-06-29-4_Which_is_more_important,_book_knowledge_or_experience?
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 4 Which is more important, book knowledge or experience?
 ## 4 Which is more important, book knowledge or experience?
 
@@ -62,4 +72,4 @@ circumstances.
 
  
 
-[返回目录](index.html)
+

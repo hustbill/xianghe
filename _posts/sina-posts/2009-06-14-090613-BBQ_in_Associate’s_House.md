@@ -1,3 +1,13 @@
+---
+title: 2009-06-14-090613-BBQ_in_Associate’s_House
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 090613-BBQ in Associate’s House
 ## 090613-BBQ in Associate’s House
 
@@ -11,4 +21,4 @@ View Full Album](http&#58;//cid-21498be546db23d6.skydrive.live.com/redir.aspx?pa
 I’m very glad to visit his house. Both he and his family are
 totally warm-heart. We spend a nice afternoon in his home
 
-[返回目录](index.html)
+

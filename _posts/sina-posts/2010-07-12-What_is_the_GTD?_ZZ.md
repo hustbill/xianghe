@@ -1,3 +1,13 @@
+---
+title: 2010-07-12-What_is_the_GTD?_ZZ
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 What is the GTD? ZZ
 ## What is the GTD? ZZ
 
@@ -54,4 +64,4 @@ GTD's simplicity, flexibility, and immediacy are its attraction.
 Its ability to enliven, enlighten, and empower is its magic. What,
 indeed, is GTD? More than meets the eye...
 
-[返回目录](index.html)
+

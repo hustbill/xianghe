@@ -1,3 +1,13 @@
+---
+title: 2010-08-07-Randy_Pausch_in_The_Last_Lecture
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Randy Pausch in The Last Lecture
 ## Randy Pausch in The Last Lecture
 
@@ -11,4 +21,4 @@ enough. They’re there to stop the other people.
 
 - Randy Pausch in *The Last Lecture*
 
-[返回目录](index.html)
+

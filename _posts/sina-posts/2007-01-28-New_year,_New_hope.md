@@ -1,3 +1,13 @@
+---
+title: 2007-01-28-New_year,_New_hope
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 New year, New hope
 ## New year, New hope
 
@@ -18,4 +28,4 @@ English.
 
 3> Make a presentation in English.
 
-[返回目录](index.html)
+

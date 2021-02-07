@@ -1,3 +1,13 @@
+---
+title: 2011-08-24-转贴：用U盘或移动硬盘安装Windows7_(超简单制作Win7安装U盘方法)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 转贴：用U盘或移动硬盘安装Windows7 (超简单制作Win7安装U盘方法)
 ## 转贴：用U盘或移动硬盘安装Windows7 (超简单制作Win7安装U盘方法)
 
@@ -51,4 +61,4 @@ USB/DVD Download Tool](http://dl.iplaysoft.com/files/412.html)&#160; |&#160;
 |&#160; [Windows7
 ISO镜像](http://www.iplaysoft.com/windows7-msdn-iso.html)
 
-[返回目录](index.html)
+

@@ -1,3 +1,13 @@
+---
+title: 2010-07-23-Why_Developers_are_So_Important(转载)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Why Developers are So Important(转载)
 ## Why Developers are So Important(转载)
 
@@ -99,4 +109,4 @@ gatekeepers of information, can change those economics by not only
 building better tools for people to process that information, but
 by making it easier to become data literate.
 
-[返回目录](index.html)
+

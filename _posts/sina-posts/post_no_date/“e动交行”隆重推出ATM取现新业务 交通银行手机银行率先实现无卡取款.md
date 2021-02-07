@@ -1,8 +1,8 @@
-2006-5-27要活得明白，利用好自己手中的资源
-## 2006-5-27要活得明白，利用好自己手中的资源
+“e动交行”隆重推出ATM取现新业务 交通银行手机银行率先实现无卡取款
+## “e动交行”隆重推出ATM取现新业务 交通银行手机银行率先实现无卡取款
 
  原文发布于：*3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-2006-5-27要活得明白，利用好自己手中的资源_billyzhang2010_新浪博客
+“e动交行”隆重推出ATM取现新业务 交通银行手机银行率先实现无卡取款_billyzhang2010_新浪博客
 try{
 document.execCommand("BackgroundImageCache", false, true);
 }catch(e){}
@@ -87,7 +87,7 @@ var scope = {
     $summary: "...  (来自 @头条博客)",
     $is_photo_vip:0,
 		 $nClass:0,
-		 $articleid:"698339380100ouae",
+		 $articleid:"698339380100ou2q",
 		 $sort_id:117,
 		 $cate_id:"",
 		 $isCommentAllow:0,
@@ -101,7 +101,7 @@ var scope = {
     UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
     UserColor:"",
     backgroundcolor:"",
-    $shareData:{"title":"2006-5-27\u8981\u6d3b\u5f97\u660e\u767d\uff0c\u5229\u7528\u597d\u81ea\u5df1\u624b\u4e2d\u7684\u8d44\u6e90@\u65b0\u6d6a\u535a\u5ba2","content":"  ------------------------------------------------------------------------------------------------ \u5f15\u5b50\uff1a     ...  (\u6765\u81ea @\u5934\u6761\u535a\u5ba2)","url":"http:\/\/blog.sina.com.cn\/s\/blog_698339380100ouae.html","pic":""},
+    $shareData:{"title":"\u201ce\u52a8\u4ea4\u884c\u201d\u9686\u91cd\u63a8\u51faATM\u53d6\u73b0\u65b0\u4e1a\u52a1 \u4ea4\u901a\u94f6\u884c\u624b\u673a\u94f6\u884c\u7387\u5148\u5b9e\u73b0\u65e0\u5361\u53d6\u6b3e@\u65b0\u6d6a\u535a\u5ba2","content":"    2010\u5e741\u670820\u65e5\uff0c\u4ea4\u901a\u94f6\u884c\u624b\u673a\u94f6\u884c\u54c1\u724c\u201ce\u52a8\u4ea4\u884c\u201d\u518d\u63a8\u5168\u65b0\u670d\u52a1\uff0c\u7387\u5148\u5728\u5168\u56fd\u5b9e\u73b0\u624b\u673a\u94f6\u884c\u9884\u7ea6ATM\u53d6\u73b0\uff0c\u4f7f...  (\u6765\u81ea @\u5934\u6761\u535a\u5ba2)","url":"http:\/\/blog.sina.com.cn\/s\/blog_698339380100ou2q.html","pic":""},
     tpl:"30_1",
     reclist:0    };
 var $encrypt_code = "6166a22298d7c4ea7dad8f688ceb9957";
@@ -112,7 +112,7 @@ __load_js();__render_page();
 *
 
                     ml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-2006-5-27要活得明白，利用好自己手中的资源_billyzhang2010_新浪博客
+“e动交行”隆重推出ATM取现新业务 交通银行手机银行率先实现无卡取款_billyzhang2010_新浪博客
 try{
 document.execCommand("BackgroundImageCache", false, true);
 }catch(e){}
@@ -197,7 +197,7 @@ var scope = {
     $summary: "...  (来自 @头条博客)",
     $is_photo_vip:0,
 		 $nClass:0,
-		 $articleid:"698339380100ouae",
+		 $articleid:"698339380100ou2q",
 		 $sort_id:117,
 		 $cate_id:"",
 		 $isCommentAllow:0,
@@ -211,7 +211,7 @@ var scope = {
     UserBabyPic:{"photoX":0,"photoY":0,"photoURL":null,"angle":0,"zoom":0,"maskX":0,"maskY":0,"maskURL":null,"frameURL":null},
     UserColor:"",
     backgroundcolor:"",
-    $shareData:{"title":"2006-5-27\u8981\u6d3b\u5f97\u660e\u767d\uff0c\u5229\u7528\u597d\u81ea\u5df1\u624b\u4e2d\u7684\u8d44\u6e90@\u65b0\u6d6a\u535a\u5ba2","content":"  ------------------------------------------------------------------------------------------------ \u5f15\u5b50\uff1a     ...  (\u6765\u81ea @\u5934\u6761\u535a\u5ba2)","url":"http:\/\/blog.sina.com.cn\/s\/blog_698339380100ouae.html","pic":""},
+    $shareData:{"title":"\u201ce\u52a8\u4ea4\u884c\u201d\u9686\u91cd\u63a8\u51faATM\u53d6\u73b0\u65b0\u4e1a\u52a1 \u4ea4\u901a\u94f6\u884c\u624b\u673a\u94f6\u884c\u7387\u5148\u5b9e\u73b0\u65e0\u5361\u53d6\u6b3e@\u65b0\u6d6a\u535a\u5ba2","content":"    2010\u5e741\u670820\u65e5\uff0c\u4ea4\u901a\u94f6\u884c\u624b\u673a\u94f6\u884c\u54c1\u724c\u201ce\u52a8\u4ea4\u884c\u201d\u518d\u63a8\u5168\u65b0\u670d\u52a1\uff0c\u7387\u5148\u5728\u5168\u56fd\u5b9e\u73b0\u624b\u673a\u94f6\u884c\u9884\u7ea6ATM\u53d6\u73b0\uff0c\u4f7f...  (\u6765\u81ea @\u5934\u6761\u535a\u5ba2)","url":"http:\/\/blog.sina.com.cn\/s\/blog_698339380100ou2q.html","pic":""},
     tpl:"30_1",
     reclist:0    };
 var $encrypt_code = "6166a22298d7c4ea7dad8f688ceb9957";
@@ -220,4 +220,4 @@ __load_js();__render_page();
         var sourceArr = ['SLOT_41','SLOT_42','SLOT_43,SLOT_47,SLOT_48'];  //广告资源id
         SinaBlog680.staticBox(slotArr, sourceArr);
 
-[返回目录](index.html)
+

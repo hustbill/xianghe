@@ -1,3 +1,13 @@
+---
+title: 2009-03-29-USE_MATLAB_TO_CALL_C++_dll(zz)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 USE MATLAB TO CALL C++ dll(zz)
 ## USE MATLAB TO CALL C++ dll(zz)
 
@@ -128,4 +138,4 @@ MATLAB Compiler, and a [
 supported C, C++, or FORTRAN compiler](http&#58;//www.mathworks.com/support/compilers/current_release/) to compile the source
 code.
 
-[返回目录](index.html)
+

@@ -1,3 +1,13 @@
+---
+title: 2010-11-30-Delete_items_in_Kindle_3
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Delete items in Kindle 3
 ## Delete items in Kindle 3
 
@@ -19,4 +29,4 @@ ReynaVoop](http&#58;//www.amazon.com/gp/pdp/profile/ASMATIBS1RGFZ/ref=cm_cd_et_p
 
 [http&#58;//www.amazon.com/#](http&#58;//www.amazon.com/#)
 
-[返回目录](index.html)
+

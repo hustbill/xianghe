@@ -1,3 +1,13 @@
+---
+title: 2011-06-05-Quora其实是个&rdquo;用&rdquo;英语的好去处_by_李笑来
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Quora其实是个&rdquo;用&rdquo;英语的好去处 by 李笑来
 ## Quora其实是个&rdquo;用&rdquo;英语的好去处 by 李笑来
 
@@ -23,4 +33,4 @@ Quora其实是个&rdquo;用&rdquo;英语的好去处 by 李笑来
 
 只要用起来，剩下的就容易了&#8943;&#8943;
 
-[返回目录](index.html)
+

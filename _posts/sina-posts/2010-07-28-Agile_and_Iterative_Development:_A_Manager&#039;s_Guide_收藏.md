@@ -1,3 +1,13 @@
+---
+title: 2010-07-28-Agile_and_Iterative_Development:_A_Manager&#039;s_Guide_收藏
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Agile and Iterative Development: A Manager&#039;s Guide 收藏
 ## Agile and Iterative Development: A Manager&#039;s Guide 收藏
 
@@ -26,4 +36,4 @@ http&#58;//rapidshare.com/files/14330744/I0131111558.rar](http&#58;//rapidshare.
 
 本文来自CSDN博客，转载请标明出处：http&#58;//blog.csdn.net/topmvp/archive/2008/08/26/2835111.aspx
 
-[返回目录](index.html)
+

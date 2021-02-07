@@ -1,3 +1,13 @@
+---
+title: 2010-06-03-Cannot_display_the_template_add_in_template_is_not_valid_template_name.(such_as_~$oxmail.dot)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Cannot display the template add_in template is not valid template name.(such as ~$oxmail.dot)
 ## Cannot display the template add_in template is not valid template name.(such as ~$oxmail.dot)
 
@@ -53,4 +63,4 @@ the Microsoft Knowledge Base&#58;
 troubleshoot problems that occur when you start or use Word 2003 or
 Word 2002
 
-[返回目录](index.html)
+

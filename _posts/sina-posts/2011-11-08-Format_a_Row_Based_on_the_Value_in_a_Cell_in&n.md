@@ -1,3 +1,13 @@
+---
+title: Format_a_Row_Based_on_the_Value_in_a_Cell_in&n
+date:  2011-11-08
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Format a Row Based on the Value in a Cell in&n
 ## Format a Row Based on the Value in a Cell in&n
 
@@ -52,4 +62,4 @@ box.
 Scores less than 50 will be red, scores between 50 to 59 will be
 green and scores 60 to 69 will be blue.
 
-[返回目录](index.html)
+

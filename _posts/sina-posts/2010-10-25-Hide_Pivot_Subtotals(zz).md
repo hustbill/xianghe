@@ -1,3 +1,13 @@
+---
+title: 2010-10-25-Hide_Pivot_Subtotals(zz)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Hide Pivot Subtotals(zz)
 ## Hide Pivot Subtotals(zz)
 
@@ -40,4 +50,4 @@ subtotals from the pivot table.
 > > Download the zipped [sample
 > > file](http&#58;//www.contextures.com/PivotSales.zip) for this pivot table tutorial
 
-[返回目录](index.html)
+

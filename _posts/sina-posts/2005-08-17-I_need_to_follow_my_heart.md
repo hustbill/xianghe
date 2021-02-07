@@ -1,3 +1,13 @@
+---
+title: 2005-08-17-I_need_to_follow_my_heart
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 I need to follow my heart
 ## I need to follow my heart
 
@@ -13,4 +23,4 @@ I need to follow my heart
   
 从今天开始，努力追逐自己心中的梦想！
 
-[返回目录](index.html)
+

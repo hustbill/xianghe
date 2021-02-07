@@ -1,3 +1,13 @@
+---
+title: 2009-10-18-Intensive_Business_Writing-_ClarkMorgan
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 Intensive Business Writing- ClarkMorgan
 ## Intensive Business Writing- ClarkMorgan
 
@@ -25,4 +35,4 @@ Tips3  Structure your message
 
 Tips4  Personalise your Communication
 
-[返回目录](index.html)
+

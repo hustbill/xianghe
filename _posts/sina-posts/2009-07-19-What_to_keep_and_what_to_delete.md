@@ -1,3 +1,13 @@
+---
+title: 2009-07-19-What_to_keep_and_what_to_delete
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 What to keep and what to delete
 ## What to keep and what to delete
 
@@ -16,4 +26,4 @@ months? If not, delete it.
 - Do you have to keep the information because it is legal or
 human resources information? If not, delete it.
 
-[返回目录](index.html)
+

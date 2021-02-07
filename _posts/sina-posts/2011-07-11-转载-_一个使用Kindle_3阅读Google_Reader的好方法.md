@@ -1,3 +1,13 @@
+---
+title: 2011-07-11-转载-_一个使用Kindle_3阅读Google_Reader的好方法
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 转载- 一个使用Kindle 3阅读Google Reader的好方法
 ## 转载- 一个使用Kindle 3阅读Google Reader的好方法
 
@@ -63,4 +73,4 @@
 
 经常阅读Google Reader的朋友可以follow我的GR共享: [https://www.google.com/reader/shared/xuyuanme](https://www.google.com/reader/shared/xuyuanme)
 
-[返回目录](index.html)
+

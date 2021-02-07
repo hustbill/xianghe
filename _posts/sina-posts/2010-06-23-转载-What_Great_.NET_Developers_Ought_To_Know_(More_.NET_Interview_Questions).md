@@ -1,3 +1,13 @@
+---
+title: 2010-06-23-转载-What_Great_.NET_Developers_Ought_To_Know_(More_.NET_Interview_Questions)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 转载-What Great .NET Developers Ought To Know (More .NET Interview Questions)
 ## 转载-What Great .NET Developers Ought To Know (More .NET Interview Questions)
 
@@ -416,4 +426,4 @@ System.Xml support DTDs? How?
 ![转载-What&nbsp;<wbr>Great&nbsp;<wbr>.NET&nbsp;<wbr>Developers&nbsp;<wbr>Ought&nbsp;<wbr>To&nbsp;<wbr>Know&nbsp;<wbr>(More&nbsp;<wbr>.NET&nbsp;<wbr>Interview&nbsp;<wbr>Questions)](PicExportError) Can
 any XML Schema be represented as an object graph? Vice versa?
 
-[返回目录](index.html)
+

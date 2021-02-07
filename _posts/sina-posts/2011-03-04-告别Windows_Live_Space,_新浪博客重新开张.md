@@ -1,3 +1,13 @@
+---
+title: 2011-03-04-告别Windows_Live_Space,_新浪博客重新开张
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 告别Windows Live Space, 新浪博客重新开张
 ## 告别Windows Live Space, 新浪博客重新开张
 
@@ -16,4 +26,4 @@ Space从2004年7月份到现在，一晃快七年了。不知不觉养成网上�
 
  
 
-[返回目录](index.html)
+

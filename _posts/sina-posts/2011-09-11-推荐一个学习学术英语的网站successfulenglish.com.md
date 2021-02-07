@@ -1,3 +1,13 @@
+---
+title: 推荐一个学习学术英语的网站successfulenglish.com
+date:  2011-09-11
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 推荐一个学习学术英语的网站successfulenglish.com
 ## 推荐一个学习学术英语的网站successfulenglish.com
 
@@ -37,4 +47,4 @@ series of [
 5-minute Lectures](http://newmusic.itunes.com/redir/cbx-cgi.do?v=2&amp;la=en&amp;lc=&amp;a=gYBuISJ5hHUvy+69bGui5Ims3lMWUOy3JIyBFJXexjH9ILEOv3yY94ulYlynulxg7lyzCUycnTBPVmyQNwM4Z+a1XktjeNbICimuxqvFe2hN64n9DiDKszC1b2BphrdDG/gcVxgEb79mwdyneP0MGw==), and you can get [
 60-second Lectures](http://newmusic.itunes.com/redir/cbx-cgi.do?v=2&amp;la=en&amp;lc=&amp;a=gYBuISJ5hHUvy+69bGui5MsV5Vf117mCMKNPZne2VOL/lqblNs5rqwDoZFbg8g8XNDIO3GWow5zyvNYq7BiV+OczjDuiysjOp3pgZII0Mt9Yo2wSP15IydBNhX5FP166UdIpIKpp8Lumjff8nzKbBQ==) from the University of Pennsylvania.
 
-[返回目录](index.html)
+

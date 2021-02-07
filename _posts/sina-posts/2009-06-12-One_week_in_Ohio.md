@@ -1,3 +1,13 @@
+---
+title: 2009-06-12-One_week_in_Ohio
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 One week in Ohio
 ## One week in Ohio
 
@@ -23,4 +33,4 @@ That’s all.
 
 Just like child’s words. &#58;-)
 
-[返回目录](index.html)
+

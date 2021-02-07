@@ -1,3 +1,13 @@
+---
+title: 2005-08-03-我的骄傲(Proud_of_you)
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 我的骄傲(Proud of you)
 ## 我的骄傲(Proud of you)
 
@@ -53,4 +63,4 @@ Fung的香港歌手演绎，香港音乐人陈光荣作曲，黄伟文填词。�
 
     Till the end of life
 
-[返回目录](index.html)
+

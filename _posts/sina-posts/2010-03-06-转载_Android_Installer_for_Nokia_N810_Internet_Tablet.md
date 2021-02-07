@@ -1,3 +1,13 @@
+---
+title: 2010-03-06-转载_Android_Installer_for_Nokia_N810_Internet_Tablet
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 转载 Android Installer for Nokia N810 Internet Tablet
 ## 转载 Android Installer for Nokia N810 Internet Tablet
 
@@ -61,4 +71,4 @@ Random Musings](http&#58;//geekpenguin.blogspot.com/2008/07/android-on-n810-made
 installer](http&#58;//technorati.com/tag/android%2Binstaller), [nokia
 n810](http&#58;//technorati.com/tag/nokia%2Bn810)
 
-[返回目录](index.html)
+

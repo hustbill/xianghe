@@ -1,3 +1,13 @@
+---
+title: 2009-07-19-4_ways_to_take_control_of_your_e-mail_Inbox-_zz
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 4 ways to take control of your e-mail Inbox- zz
 ## 4 ways to take control of your e-mail Inbox- zz
 
@@ -231,4 +241,4 @@ suggest setting chunks of time aside to work through it. Then you
 can really enjoy processing your messages every day using the 4
 D's.
 
-[返回目录](index.html)
+

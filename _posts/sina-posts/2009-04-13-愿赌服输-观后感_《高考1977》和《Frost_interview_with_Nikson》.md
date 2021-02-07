@@ -1,3 +1,13 @@
+---
+title: 2009-04-13-愿赌服输-观后感_《高考1977》和《Frost_interview_with_Nikson》
+date:  to_do_item
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客"]
+categories: 
+    - "日记本"
+---
 愿赌服输-观后感 《高考1977》和《Frost interview with Nikson》
 ## 愿赌服输-观后感 《高考1977》和《Frost interview with Nikson》
 
@@ -19,4 +29,4 @@ Nikson访谈中，Frost
 
 人的一生很短暂，能做的事情真正不多，如何让自己不陷入碌碌无为的泥沼呢，除了多读书，多实践，多增强自己的本领，别无它途。
 
-[返回目录](index.html)
+
