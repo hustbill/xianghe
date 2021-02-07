@@ -1,6 +1,6 @@
 ---
 title: 2011-06-05-Quora其实是个&rdquo;用&rdquo;英语的好去处_by_李笑来
-date:  to_do_item
+date:  2011-06-05
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

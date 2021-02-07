@@ -1,6 +1,6 @@
 ---
 title: 2007-01-28-New_year,_New_hope
-date:  to_do_item
+date:  2007-01-28
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

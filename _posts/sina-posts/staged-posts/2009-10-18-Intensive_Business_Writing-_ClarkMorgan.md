@@ -1,6 +1,6 @@
 ---
 title: 2009-10-18-Intensive_Business_Writing-_ClarkMorgan
-date:  to_do_item
+date:  2009-10-18
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

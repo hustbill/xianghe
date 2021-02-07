@@ -1,6 +1,6 @@
 ---
 title: 2009-06-12-One_week_in_Ohio
-date:  to_do_item
+date:  2009-06-12
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

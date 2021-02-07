@@ -1,6 +1,6 @@
 ---
 title: 2010-07-12-What_is_the_GTD?_ZZ
-date:  to_do_item
+date:  2010-07-12
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

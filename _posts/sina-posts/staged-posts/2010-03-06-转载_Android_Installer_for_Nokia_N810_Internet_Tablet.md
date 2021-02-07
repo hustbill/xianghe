@@ -1,6 +1,6 @@
 ---
 title: 2010-03-06-转载_Android_Installer_for_Nokia_N810_Internet_Tablet
-date:  to_do_item
+date:  2010-03-06
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

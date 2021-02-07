@@ -1,6 +1,6 @@
 ---
 title: 2009-07-19-5_beliefs_that_limit_productivity—and_how_to_overcome_them_(By_Microsoft)
-date:  to_do_item
+date:  2009-07-19
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

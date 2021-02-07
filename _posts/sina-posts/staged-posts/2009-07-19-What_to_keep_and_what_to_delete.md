@@ -1,6 +1,6 @@
 ---
 title: 2009-07-19-What_to_keep_and_what_to_delete
-date:  to_do_item
+date:  2009-07-19
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

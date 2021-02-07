@@ -1,6 +1,6 @@
 ---
 title: 2010-06-03-Cannot_display_the_template_add_in_template_is_not_valid_template_name.(such_as_~$oxmail.dot)
-date:  to_do_item
+date:  2010-06-03
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

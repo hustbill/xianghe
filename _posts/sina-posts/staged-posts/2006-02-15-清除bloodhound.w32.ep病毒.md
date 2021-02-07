@@ -1,6 +1,6 @@
 ---
 title: 2006-02-15-清除bloodhound.w32.ep病毒
-date:  to_do_item
+date:  2006-02-15
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

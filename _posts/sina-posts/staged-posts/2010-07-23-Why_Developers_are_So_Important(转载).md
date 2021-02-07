@@ -1,6 +1,6 @@
 ---
 title: 2010-07-23-Why_Developers_are_So_Important(转载)
-date:  to_do_item
+date:  2010-07-23
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

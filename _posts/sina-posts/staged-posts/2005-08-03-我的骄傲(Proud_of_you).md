@@ -1,6 +1,6 @@
 ---
 title: 2005-08-03-我的骄傲(Proud_of_you)
-date:  to_do_item
+date:  2005-08-03
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

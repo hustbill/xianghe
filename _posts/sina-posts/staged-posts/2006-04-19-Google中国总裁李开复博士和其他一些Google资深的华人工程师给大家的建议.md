@@ -1,6 +1,6 @@
 ---
 title: 2006-04-19-Google中国总裁李开复博士和其他一些Google资深的华人工程师给大家的建议
-date:  to_do_item
+date:  2006-04-19
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

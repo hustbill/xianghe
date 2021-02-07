@@ -1,6 +1,6 @@
 ---
 title: 2010-07-28-Agile_and_Iterative_Development:_A_Manager&#039;s_Guide_收藏
-date:  to_do_item
+date:  2010-07-28
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

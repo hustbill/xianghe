@@ -1,6 +1,6 @@
 ---
 title: 2009-06-14-090613-BBQ_in_Associate’s_House
-date:  to_do_item
+date:  2009-06-14
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

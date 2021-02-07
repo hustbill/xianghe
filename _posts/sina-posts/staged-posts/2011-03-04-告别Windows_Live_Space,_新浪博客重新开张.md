@@ -1,6 +1,6 @@
 ---
 title: 2011-03-04-告别Windows_Live_Space,_新浪博客重新开张
-date:  to_do_item
+date:  2011-03-04
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

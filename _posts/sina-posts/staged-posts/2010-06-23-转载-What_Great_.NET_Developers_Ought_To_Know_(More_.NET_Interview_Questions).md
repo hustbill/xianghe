@@ -1,6 +1,6 @@
 ---
 title: 2010-06-23-转载-What_Great_.NET_Developers_Ought_To_Know_(More_.NET_Interview_Questions)
-date:  to_do_item
+date:  2010-06-23
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

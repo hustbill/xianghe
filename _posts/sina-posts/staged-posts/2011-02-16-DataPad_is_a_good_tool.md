@@ -1,6 +1,6 @@
 ---
 title: 2011-02-16-DataPad_is_a_good_tool
-date:  to_do_item
+date:  2011-02-16
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

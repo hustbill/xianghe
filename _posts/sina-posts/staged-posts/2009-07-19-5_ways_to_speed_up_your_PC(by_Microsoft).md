@@ -1,6 +1,6 @@
 ---
 title: 2009-07-19-5_ways_to_speed_up_your_PC(by_Microsoft)
-date:  to_do_item
+date:  2009-07-19
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

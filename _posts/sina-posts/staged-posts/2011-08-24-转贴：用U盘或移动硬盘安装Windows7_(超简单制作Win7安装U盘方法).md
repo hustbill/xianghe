@@ -1,6 +1,6 @@
 ---
 title: 2011-08-24-转贴：用U盘或移动硬盘安装Windows7_(超简单制作Win7安装U盘方法)
-date:  to_do_item
+date:  2011-08-24
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

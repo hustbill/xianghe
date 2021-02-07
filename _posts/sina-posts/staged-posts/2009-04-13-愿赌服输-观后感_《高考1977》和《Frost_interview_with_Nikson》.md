@@ -1,6 +1,6 @@
 ---
 title: 2009-04-13-愿赌服输-观后感_《高考1977》和《Frost_interview_with_Nikson》
-date:  to_do_item
+date:  2009-04-13
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

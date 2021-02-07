@@ -1,6 +1,6 @@
 ---
 title: 2010-08-07-Randy_Pausch_in_The_Last_Lecture
-date:  to_do_item
+date:  2010-08-07
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

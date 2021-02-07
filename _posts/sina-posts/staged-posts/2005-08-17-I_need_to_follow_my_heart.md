@@ -1,6 +1,6 @@
 ---
 title: 2005-08-17-I_need_to_follow_my_heart
-date:  to_do_item
+date:  2005-08-17
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

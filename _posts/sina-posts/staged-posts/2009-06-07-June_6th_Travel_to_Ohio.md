@@ -1,6 +1,6 @@
 ---
 title: 2009-06-07-June_6th_Travel_to_Ohio
-date:  to_do_item
+date:  2009-06-07
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

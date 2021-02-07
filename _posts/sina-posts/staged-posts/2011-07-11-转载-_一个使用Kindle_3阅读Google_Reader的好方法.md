@@ -1,6 +1,6 @@
 ---
 title: 2011-07-11-转载-_一个使用Kindle_3阅读Google_Reader的好方法
-date:  to_do_item
+date:  2011-07-11
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

@@ -1,6 +1,6 @@
 ---
 title: 2009-07-15-dancing_in_the_moonlight_ZZ
-date:  to_do_item
+date:  2009-07-15
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

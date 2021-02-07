@@ -1,6 +1,6 @@
 ---
 title: 2009-06-14-Cleverland
-date:  to_do_item
+date:  2009-06-14
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

@@ -1,6 +1,6 @@
 ---
 title: 2007-06-29-4_Which_is_more_important,_book_knowledge_or_experience?
-date:  to_do_item
+date:  2007-06-29
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

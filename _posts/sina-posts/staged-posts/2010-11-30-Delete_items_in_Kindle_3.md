@@ -1,6 +1,6 @@
 ---
 title: 2010-11-30-Delete_items_in_Kindle_3
-date:  to_do_item
+date:  2010-11-30
 draft: false
 keywords: []
 description: "Imported from Sina Blog"

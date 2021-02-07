@@ -1,6 +1,6 @@
 ---
 title: 2009-07-15-A_whole_New_World_-_Aladdin:_Brad_Kane_&_Lea_Salonga
-date:  to_do_item
+date:  2009-07-15
 draft: false
 keywords: []
 description: "Imported from Sina Blog"
