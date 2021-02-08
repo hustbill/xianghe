@@ -1,0 +1,101 @@
+---
+title: 2008-02-01-from-sina-msn
+date:  2008-02-01
+draft: false
+keywords: []
+description: "Imported from Sina Blog"
+tags: ["新浪博客", "MSN搬家"]
+categories: 
+    - "日记本"
+---
+
+十大投资者进阶书 (2008-02-02 22:57:34)
+今天翻看第一财经日报，提到有志于从事股票、基金等金融产品交易的人员，在春节期间在家好好补补课，看一些基础性的书籍，并且特地推荐了十大投资者进阶书。我大致浏览了一下书名，有几本同事已经推荐过了。在网上一搜，发现了一个新的书单，摘录如下，有空翻翻。
+
+　
+## [Hidden Gems Reading List](http://agrawal-family.com/wiki/index.php?Hidden%20Gems%20Reading%20List)
+
+Elementary School （小学)
+-------------------------
+
+- One Up on Wall Street,（彼得·林奇的成功投资）by Peter Lynch（彼得·林奇）
+- Buffett: The Making of an American Capitalist（一个美国资本家的成长-巴菲特传）, by Roger Lowenstein
+- value Investing With the Masters（跟大师学价值投资), by Kirk Kazanjian (0735203210)
+- The Davis Dynasty(戴维斯王朝——五十年华尔街成功投资历程), by John Rothchild
+- valuegrowth Investing(价值成长型投资), by Glen Arnold
+
+Junior High (初中)
+-------------------------
+- The 5 Keys to value Investing(价值投资五大关键), by J. Dennis Jean-Jacques
+- Beating the Street(战胜华尔街), by Peter Lynch(彼得·林奇)
+- Investment Fables(打破神话的投资十诫), by Aswath Damodaran
+- The Vest Pocket Guide to value Investing(价值投资手册), by C. Thomas Howard
+- Common Stocks and Uncommon Profits(怎样选择成长股), by Philip Fisher (菲利普.费雪)
+
+High School （高中）
+-------------------------
+- Made in America（美国制造）, by Sam Walton (萨姆.沃尔顿)
+- Forbes' Greatest Investing Stories( 福布斯最大投资传奇), by Richard Phalon
+- John Neff on Investing(约翰.聂夫谈投资), by John Neff (约翰.聂夫)
+- The Intelligent Investor(聪明的投资者), by Benjamin Graham (本杰明.格雷厄姆)
+- The Money Masters(金融大师), by John Train
+
+University （大学）
+-------------------------
+- Stocks for the Long Run(股史风云话投资(第3版散户投资正典)), by Jeremy Siegel (西格尔)
+- Quality of Earnings（盈利的质量), by Thornton Oglove (0029226309)
+- Investing in Small-Cap Stocks(投资小盘股）, by Christopher Graja and Elizabeth Ungar
+- The Book of Investing Wisdom（投资智慧书), by Peter Krass
+- You Can Be a Stock Market Genius(你能成为股市天才), by Joel Greenblatt
+
+Grad School （研究院）
+-------------------------
+- Break Up!(分裂), by Campbell, Koch & Sadtler
+- Investment Gurus(投资大师), by Peter Tanous
+- value Investing: A Balanced Approach(《价值投资：平稳途径》）, by Martin Whitman
+- value Investing: From Graham to Buffett and Beyond(价值投资：从格雷厄姆到巴菲特及其他), by Bruce Greenwald
+- The Road to Serfdom(通往奴役之路), by F.A. Hayek (哈谢克)
+
+
+Post-Doc 1: （博士后1）
+-------------------------
+- It's Earnings that Count(起作用的是盈利), Heiserman
+- The Five Rules for Successful Stock Investing(股市真规则), Dorsey
+- Inside Intuit(Intuit公司内幕), Taylor & Scroeder
+- Pour Your Heart Into It(星巴克咖啡王国传奇), Schultz & Yang
+- Investment Philosophies(投资哲学), Damodaran
+
+Post-Doc 2: （博士后2）
+-------------------------
+- Damodaran on Valuation(价值评估,另一个译本译名:论价值:投资与公司财务安全性分析), Damodaran
+- Contrarian Investment Strategies: The Next Generation(反向投资策略：升级版), Dreman
+- Moneyball(钱与球: 在不公平比赛中获胜的艺术), Lewis
+- Investment Intelligence From Insider Trading (从内线交易中获得的投资情报)
+- Financial Shenanigans(财务诡计), Schilit
+
+Post-Doc 3: （博士后3）
+-------------------------
+- Bull! A History of the Boom, 1982-1999,(牛市！1982-1999的市场繁荣历史) Mahir
+- Wall Street: A History,（华尔街史) Geisst
+- The Effective Executive(有效的管理者), Drucker (彼得.德鲁克)
+- The Essential Drucker(管理大师德鲁克精华), Drucker (彼得.德鲁克)
+- The Essays of Warren Buffet（巴菲特致股东的信：股份公司教程）, Buffet
+
+Post-Doc 4: （博士后4）
+-------------------------
+- Letters to Shareholders: Warren Buffet （巴菲特致股东的信)
+- Letters to Shareholders: Charlie Munger (芒格致股东的信)
+- Bershire Hathaway Owners Manual（伯克夏所有者手册）, Buffet （以上三个见伯克夏网站)
+- The Dark Side of Valuation(深入价值评估), Damodaran
+大年初一逛上海
+## 大年初一逛上海
+
+ 原文发布于：*2008-02-07 22:49:15*
+
+   
+大年初一，难得天空放晴了，煦暖的太阳，让我们全家游兴大增。吃完早餐，就带爸妈去了人民广场，老妈是第一次来上海，觉得人民广场和咱武汉的洪山广场差不多。围着上海市政府周围的几处建筑，随意地逛了逛，还给她和老爸照了好几张合影，笑容一直洋溢在他们脸上。
+
+   
+蓝天、白云，绿树、红花，人不多，空气也蛮好的，这才是我心目中的想要的城市生活。下午又去逛南京路步行街，一直走到外滩，然后打车回家。看得出他们玩得很尽兴，作为儿子来说，让父母发自内心的感到快乐，享受着家人团聚的乐趣，我也很知足。
+
+
