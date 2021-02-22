@@ -74,3 +74,4 @@ Boot Camp，体验一个产品爆发性增长的， 让自己的scope变得更�
 
 
 
+https://ijgolding.com/2017/07/05/14-leadership-principles-drive-amazon/#comments)
